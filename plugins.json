@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://git.nixnet.services/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/nm.png",
+        "fileHash": "sha256-ac994cf7d1b968801269afebbac68a115bc37bf591c48dc4c4149eb68525ab5b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/eclipsia-404/cs-nm",
+        "fileSize": 67332,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Eclipsia"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 66,
+        "internalName": "Netmirror",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar",
+        "url": "https://raw.githubusercontent.com/eclipsia-404/cs-nm/builds/Netmirror.cs3",
+        "name": "Netmirror"
+    }
+]
